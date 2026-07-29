@@ -10,7 +10,7 @@ AI-assisted PR review pipelines. 6 months shipping internal banking apps at
 Banco de Bogotá, plus a 🏆 **1st place** at LATAM's first GTM hackathon with an
 AI voice-agent platform.
 
-**[See the full trace on my portfolio](https://port-folio-hazel-delta.vercel.app) →**
+**[See the full trace on my portfolio](https://thomasjuti.dev) →**
 
 </div>
 
@@ -39,6 +39,6 @@ AI voice-agent platform.
 
 <div align="center">
 
-📫 [thomasjuti1210@gmail.com](mailto:thomasjuti1210@gmail.com) · [LinkedIn](https://www.linkedin.com/in/thomasjutinico/) · [Portfolio](https://port-folio-hazel-delta.vercel.app)
+📫 [thomasjuti1210@gmail.com](mailto:thomasjuti1210@gmail.com) · [LinkedIn](https://www.linkedin.com/in/thomasjutinico/) · [Portfolio](https://thomasjuti.dev)
 
 </div>
