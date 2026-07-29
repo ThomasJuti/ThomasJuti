@@ -1,16 +1,44 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ThomasJuti/ThomasJuti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Thomas Jutinico
 
-Here are some ideas to get you started:
+`fullstack developer · AI agent builder · bogotá, co`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Systems engineering student (8th semester, U. Libre) who goes looking for the hard
+technical problems: hexagonal architecture on AWS, infrastructure as code, and
+AI-assisted PR review pipelines. 6 months shipping internal banking apps at
+Banco de Bogotá, plus a 🏆 **1st place** at LATAM's first GTM hackathon with an
+AI voice-agent platform.
+
+**→ [See the full trace on my portfolio](https://github.com/ThomasJuti/PortFolio) →**
+
+</div>
+
+<br>
+
+### Recently
+
+- 🏆 **1st place, GTM Hackathon LATAM** — built [GoTom](, an AI voice agent that scores leads and trains sales teams with realistic objections
+- 🤖 Shipped a two-layer PR review agent (deterministic rules + Gemini AI) on [`AppLifeCicle`](https://github.com/ThomasJuti/AppLifeCicle), a hexagonal-architecture banking console on AWS
+- 🏦 6 months building internal banking apps in production at Banco de Bogotá
+
+### Stack
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+
+
+<div align="center">
+
+📫 [thomasjuti1210@gmail.com](mailto:thomasjuti1210@gmail.com) · [LinkedIn](https://www.linkedin.com/in/thomasjutinico/) · [Portfolio](https://github.com/ThomasJuti/PortFolio)
+
+</div>
