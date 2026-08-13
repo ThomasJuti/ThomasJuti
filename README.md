@@ -1,6 +1,6 @@
 <div align="center">
 
-# Thomas Alejandro Jutinicop
+# Thomas Alejandro Jutinico
 
 `fullstack developer · AI agent builder · bogotá, co`
 
