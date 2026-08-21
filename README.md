@@ -20,7 +20,7 @@ AI voice-agent platform.
 
 - 🏆 **1st place, GTM Hackathon LATAM** — built [GoTom](, an AI voice agent that scores leads and trains sales teams with realistic objections
 - 🤖 Shipped a two-layer PR review agent (deterministic rules + Gemini AI) on [`AppLifeCicle`](https://github.com/ThomasJuti/AppLifeCicle), a hexagonal-architecture banking console on AWS
-- 🏦 6 months building internal banking apps in production at Banco de Bogotá
+- 🏦 6 months building internal banking apps in production at Banco de bogotá
 
 ### Stack
 
