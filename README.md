@@ -4,11 +4,7 @@
 
 `fullstack developer · AI agent builder · bogotá, co`
 
-Systems engineering student (8th semester, U.or the hard
-technical problems: hexagonal architecture on AWS, infrastructure as code, and
-AI-assisted PR review pipelines. 6 months shis at
-Banco de Bogotá, plus a 🏆 **1st place** at LATAM's first GTM hackathon with an
-AI voice-agent platform.
+Systems engineering student (8th semester, U. Libre) who goes looking for the hard technical problems: hexagonal architecture on AWS, infrastructure as code, and AI-assisted PR review pipelines. 6 months shipping internal banking apps at Banco de Bogotá, plus a 🏆 1st place at LATAM's first GTM hackathon with an AI voice-agent platform.
 
 **[See the full trace on my portfolio](https://thomasjuti.dev) →**
 
