@@ -4,9 +4,9 @@
 
 `fullstack developer · AI agent builder · bogotá, co`
 
-Systems engineering student (8th semester, U. Libre) who goes looking for the hard
+Systems engineering student (8th semester, U.or the hard
 technical problems: hexagonal architecture on AWS, infrastructure as code, and
-AI-assisted PR review pipelines. 6 months shipping internal banking apps at
+AI-assisted PR review pipelines. 6 months shis at
 Banco de Bogotá, plus a 🏆 **1st place** at LATAM's first GTM hackathon with an
 AI voice-agent platform.
 
@@ -18,9 +18,15 @@ AI voice-agent platform.
 
 ### Recently
 
-- 🏆 **1st place, GTM Hackathon LATAM** — built [GoTom](, an AI voice agent that scores leads and trains sales teams with realistic objections
+- 🏆 **1st place, GTM Hackathon LATAM** — buicom/lowkeygotom), an AI voice agent that scores leads and trains sales teams with realistic objections
+- 🥈 **2nd place, Banco de Bogotá Hackathon**
 - 🤖 Shipped a two-layer PR review agent (deterministic rules + Gemini AI) on [`AppLifeCicle`](https://github.com/ThomasJuti/AppLifeCicle), a hexagonal-architecture banking console on AWS
 - 🏦 6 months building internal banking apps in production at Banco de Bogotá
+
+### Contributing
+
+- 🤝 **[pemie.ai](https://github.com/lowkeygotom/pemie.ai)** — AI-native project management with an MCP server for
+autonomous agents. Shipped the agent-reliability metrics, and a full ES/EN i18n pass.
 
 ### Stack
 
@@ -36,9 +42,8 @@ AI voice-agent platform.
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 
-
 <div align="center">
 
-📫 [thomasjuti1210@gmail.com](mailto:thomasjuti1210@gmail.com) · [LinkedIn](https://www.linkedin.com/in/thomasjutinico/) · [Portfolio](https://thomasjuti.dev)
+📫 [thomasjuti1210@gmail.com](mailto:thomasjuti1210@gmail.com) · [LinkedIn](https://www.linkedin.com/in/thomasttps://thomasjuti.dev)
 
 </div>
