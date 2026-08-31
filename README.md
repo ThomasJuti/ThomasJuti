@@ -11,11 +11,13 @@ Systems engineering student (8th semester, U. Libre) who goes looking for the ha
 </div>
 
 ### Recently
+- 🤖 Shipped a two-layer PR review agent (deterministic rules + Gemini AI) on [`AppLifeCicle`](https://github.com/ThomasJuti/AppLifeCicle), a hexagonal-architecture banking console on AWS
+- 🏦 building internal banking apps in production at Banco de Bogotá
+  
+### Highlights
 
 - 🏆 **1st place, GTM Hackathon LATAM** — built [GoTom], an AI voice agent that scores leads and trains sales teams with realistic objections
 - 🥈 **2nd place, Banco de Bogotá Hackathon**
-- 🤖 Shipped a two-layer PR review agent (deterministic rules + Gemini AI) on [`AppLifeCicle`](https://github.com/ThomasJuti/AppLifeCicle), a hexagonal-architecture banking console on AWS
-- 🏦 6 months building internal banking apps in production at Banco de Bogotá
 
 ### Contributing
 
