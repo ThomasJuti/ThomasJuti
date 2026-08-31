@@ -14,8 +14,6 @@ AI voice-agent platform.
 
 </div>
 
-<br>
-
 ### Recently
 
 - 🏆 **1st place, GTM Hackathon LATAM** — buicom/lowkeygotom), an AI voice agent that scores leads and trains sales teams with realistic objections
