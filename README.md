@@ -22,7 +22,7 @@ Systems engineering student (8th semester, U. Libre) who goes looking for the ha
 ### Contributing
 
 - 🤝 **[pemie.ai](https://github.com/lowkeygotom/pemie.ai)** — AI-native project management with an MCP server for
-autonomous agents. Shipped the agent-reliability metrics, and a full ES/EN i18n pass.
+autonomous agents. Shipped the agent-reliability metrics.
 
 ### Stack
 
