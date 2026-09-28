@@ -39,6 +39,6 @@ autonomous agents. Shipped the agent-reliability metrics.
 
 <div align="center">
 
-📫 [thomasjuti1210@gmail.com](mailto:thomasjuti1210@gmail.com) · [LinkedIn](https://www.linkedin.com/in/thomasjutinico
+📫 [thomasjuti1210@gmail.com](mailto:thomasjuti1210@gmail.com) · [LinkedIn](https://www.linkedin.com/in/thomasjutinico)
 
 </div>
