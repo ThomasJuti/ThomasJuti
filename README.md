@@ -16,8 +16,8 @@ Systems engineering student (8th semester, U. Libre) who goes looking for the ha
   
 ### Highlights
 
-- 🏆 **1st place, GTM Hackathon LATAM** — built [GoTom], an AI voice agent that scores leads and trains sales teams with realistic objections
-- 🥈 **2nd place, Banco de Bogotá Hackathon** Development of internal applications focused on driving operational innovation, optimizing workflows, and modernizing outdated processes within the corporate banking division.
+- 🏆 **1st place, GTM Hackathon LATAM** — built GoTom, an AI voice agent that scores leads and trains sales teams with realistic objections
+- 🥈 **2nd place, Banco de Bogotá Hackathon** - Development of internal applications focused on driving operational innovation, optimizing workflows, and modernizing outdated processes within the corporate banking division.
 
 ### Contributing
 
