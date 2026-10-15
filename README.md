@@ -2,7 +2,7 @@
 
 # Thomas Alejandro Jutinico Jaramillo
 
-`fullstack developer · AI agent builder · bogotá, co`
+`Fullstack developer · AI agent builder · Bogotá, Co`
 
 Systems engineering student (8th semester, U. Libre) who goes looking for the hard technical problems: hexagonal architecture on AWS, infrastructure as code, and AI-assisted PR review pipelines. shipping internal banking apps at Banco de Bogotá.
 
