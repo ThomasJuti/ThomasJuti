@@ -4,7 +4,7 @@
 
 `Fullstack developer · AI agent builder · Bogotá, Co`
 
-Systems engineering student (8th semester, U. Libre) and fullstack developer who goes looking for the hard technical problems: hexagonal architecture on AWS, infrastructure as code, Ai Agents and AI-assisted PR review pipelines. shipping internal banking apps at Banco de Bogotá.
+Systems engineering student (8th semester, U. Libre) and fullstack developer who goes looking for the hard technical problems: hexagonal architecture on AWS, infrastructure as code, AI Agents and AI-assisted PR review pipelines. shipping internal banking apps at Banco de Bogotá.
 
 **[See the full trace on my portfolio](https://thomasjuti.dev) →**
 
