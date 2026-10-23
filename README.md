@@ -4,13 +4,13 @@
 
 `Fullstack developer · AI agent builder · Bogotá, Co`
 
-Systems engineering student (8th semester, U. Libre) who goes looking for the hard technical problems: hexagonal architecture on AWS, infrastructure as code, and AI-assisted PR review pipelines. shipping internal banking apps at Banco de Bogotá.
+Systems engineering student (8th semester, U. Libre) and fullstack developer who goes looking for the hard technical problems: hexagonal architecture on AWS, infrastructure as code, Ai Agents and AI-assisted PR review pipelines. shipping internal banking apps at Banco de Bogotá.
 
 **[See the full trace on my portfolio](https://thomasjuti.dev) →**
 
 </div>
 
-### Recently
+### Recently 
 - 🤖 Shipped a two-layer PR review agent (deterministic rules + Gemini AI) on [`AppLifeCicle`](https://github.com/ThomasJuti/AppLifeCicle), a hexagonal-architecture banking console on AWS
 - 🏦 building internal banking apps in production at Banco de Bogotá
   
